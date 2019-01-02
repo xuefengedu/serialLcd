@@ -1,0 +1,14 @@
+{
+    "name": "serialLcd",
+    "version": "0.1.0",
+    "description": "serialLcd液晶microbit扩展包",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}
