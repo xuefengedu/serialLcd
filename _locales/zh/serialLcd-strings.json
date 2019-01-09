@@ -1,0 +1,17 @@
+{
+    "serialLcd|block": "serial串口LCD",
+    "serialLcd.ClearScreen|block": "清屏:|颜色 %Color",
+    "serialLcd.DisplayBMP|block": "显示TF卡中的BMP|X %Xchar|Y %Ychar|BMP文件名称：%ch",
+    "serialLcd.Dis16String|block": "显示 16 字符串|X %Xchar|Y %Ychar|前景色 %fColor|背景色 %bColor|字符串 %ch",
+    "serialLcd.Dis24String|block": "显示 24 字符串|X %Xchar|Y %Ychar|前景色 %fColor|背景色 %bColor|字符串 %ch",
+    "serialLcd.Dis32String|block": "显示 32 字符串|X %Xchar|Y %Ychar|前景色 %fColor|背景色 %bColor|字符串 %ch",
+    "serialLcd.Dis64String|block": "显示 64 字符串|X %Xchar|Y %Ychar|前景色 %fColor|背景色 %bColor|字符串 %ch",
+    "serialLcd.DrawFill|block": "绘图填满|X起始点 %Xstart2|Y起始点 %Ystart2|宽 %Xend2|高 %Yend2|颜色 %Color",
+    "serialLcd.DrawLine|block": "画线|X起始点 %Xstart|Y起始点 %Ystart|X结束点 %Xend|Y结束点 %Yend|颜色 %Color",
+    "serialLcd.DrawRectangle|block": "画矩形|X起始点 %Xstart2|Y起始点 %Ystart2|宽 %Xend2|高 %Yend2|颜色 %Color",
+    "serialLcd.DrawCircle|block": "画圆|圆心X %X_Center|圆心Y %Y_Center|半径 %Radius|颜色 %Color",
+    "serialLcd.DrawCircleFill|block": "画实心圆|圆心X %X_Center|圆心Y %Y_Center|半径 %Radius|颜色 %Color",
+    "serialLcd.LCD_SetBL|block": "设置背光级别： %Lev",
+    "serialLcd.DisplayTemp|block": "温度显示：%Lev",
+    "serialLcd.DisplayCompass|block": "指南针显示：%Lev"
+}
